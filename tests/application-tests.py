@@ -31,7 +31,7 @@ class AppTestCase(unittest.TestCase):
             self.client = current_app.test_client()
 
     def test_load_config(self):
-        """ Test that we can load our config properly """
+        """ Test that we can load our co2222222nfig properly """
         self.assertTrue(1)
 
     def test_get_test(self):
